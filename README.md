@@ -5,7 +5,9 @@ Full Stack Developer | MERN Stack |
 - I'm always eager to learn and contribute to dynamic teams, with a strong interest in cloud services like AWS and GCP. Let's connect and collaborate!
 <br>
   reach me on-
+  <br>
 - Email :poornendraparouha@gmail.com
+  <br>
 - Mobile: 9644841393
 
 <!---
