@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @poornendra parouha
-- 👀 I’m interested in software developer roles
-- 🌱 I’m currently learning full stack web develovepment from coding ninjas
-- 💞️ I’m looking to collaborate as full stack developer
-- 📫 reach me on poornendraparouha@gmail.com
+Full Stack Developer | MERN Stack |
+I’m a passionate Full Stack Developer with hands-on experience in building scalable, efficient web applications using modern front-end and back-end technologies. Proficient in React, Node.js, Express, MongoDB, and Redux Toolkit, I specialize in creating seamless user experiences and robust APIs. My work spans projects like authentication systems, utility apps, e-commerce platforms, and polling systems, with a focus on implementing clean, responsive UIs and secure, RESTful backend services.
+I'm always eager to learn and contribute to dynamic teams, with a strong interest in cloud services like AWS and GCP. Let's connect and collaborate!
+- reach me on poornendraparouha@gmail.com
 - Mobile: 9644841393
 
 <!---
