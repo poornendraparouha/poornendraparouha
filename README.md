@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Poornendra Parouha
 
-🚀 **Frontend Developer (React) | Aspiring Full-Stack / Backend Engineer**  
-💼 Software Engineer | 6+ months industry experience  
+🚀 **Full-Stack Developer (MERN)**  
+💼 Software Engineer | 1 Year industry experience  
 📍 India
 
 Passionate about building **production-ready web applications** with clean, scalable code.  
