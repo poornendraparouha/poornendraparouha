@@ -5,7 +5,7 @@
 📍 India
 
 Passionate about building **production-ready web applications** with clean, scalable code.  
-Currently working on **live enterprise products**, while actively strengthening my **Node.js, Express, and MongoDB** backend skills to transition into a **Full-Stack / Backend role**.
+Currently working on **live enterprise products** using **React.js, JavaScript, HTML, CSS, and Tailwind CSS** on the frontend, while actively strengthening my **Node.js, Express, MongoDB, and Python** backend skills to transition into a **Full-Stack / Backend role**.
 
 ---
 
@@ -30,6 +30,7 @@ Currently working on **live enterprise products**, while actively strengthening 
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ### 🧩 Backend
+![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
