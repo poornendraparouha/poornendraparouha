@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Poornendra Parouha
 
-🚀 **Full-Stack Developer (MERN)**  
+🚀 **React Developer | Frontend Developer | React.js | JavaScript | TypeScript | HTML | CSS | Redux | MERN Stack)**  
 💼 Software Engineer | 1 Year industry experience  
 📍 India
 
