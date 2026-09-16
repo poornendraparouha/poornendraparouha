@@ -4,8 +4,7 @@
 💼 Software Engineer | 1 Year industry experience  
 📍 India
 
-Passionate about building **production-ready web applications** with clean, scalable code.  
-Currently working on **live enterprise products** using **React.js, JavaScript, HTML, CSS, and Tailwind CSS** on the frontend, while actively strengthening my **Node.js, Express, MongoDB, and Python** backend skills to transition into a **Full-Stack / Backend role**.
+React.js / Frontend Developer with 1+ year of professional experience building and maintaining responsive, production-ready web applications using React.js, JavaScript, TypeScript, HTML, CSS, Redux and modern UI libraries. Experienced in developing reusable React components, integrating REST APIs, managing application state, implementing responsive user interfaces and debugging production issues. Also experienced with Node.js, Express.js, MongoDB and REST APIs, with hands-on exposure to MERN stack development. Currently working as a Software Engineer on production web applications and seeking opportunities as a **React Developer, Frontend Developer or MERN Stack Developer**.
 
 ---
 
